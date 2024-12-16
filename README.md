@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhadra Kumari</h1>
 <h3 align="center">An enthusiastic software developer from the heart of India.</h3>
-<img src="https://static.vecteezy.com/system/resources/previews/000/242/494/non_2x/vector-female-developer.jpg" width="450px" align="right" alt="">
+<img src="https://static.vecteezy.com/system/resources/previews/000/242/494/non_2x/vector-female-developer.jpg" width="425px" align="right" alt="">
 
 - 🌱 I’m currently learning **backend concept**
 
