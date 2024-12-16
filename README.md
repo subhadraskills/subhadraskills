@@ -2,6 +2,8 @@
 <h3 align="center">An enthusiastic software developer from the heart of India.</h3>
 <img src="https://www.abmcollege.com/wp-content/uploads/2024/08/6410ebf8e483b53d6186fc53_ABM-College-Web-developer-main.jpg" width="450px" align="right" alt="">
 
+- 🌱 I’m currently learning **backend concept**
+
 - 👨‍💻 All of my projects are available at [https://github.com/subhadraskills?tab=repositories](https://github.com/subhadraskills?tab=repositories)
 
 - 💬 Ask me about **JavaScript,React.js, Data Structures and Algorithms in C++**
