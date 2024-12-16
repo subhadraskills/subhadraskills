@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhadra Kumari</h1>
 <h3 align="center">An enthusiastic software developer from the heart of India.</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffull-stack-developer&psig=AOvVaw3iqJUClRU8u4prcd42dXnX&ust=1734456548408000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDc2K3orIoDFQAAAAAdAAAAABBA"alt="">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fclipart-library.com%2Fclipart%2Ftech-cartoon-cliparts-16.htm&psig=AOvVaw35qzm90QX1bmrks55kJ27h&ust=1734457491012000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCW8e7rrIoDFQAAAAAdAAAAABAJ" alt="">
 
 - 👨‍💻 All of my projects are available at [https://github.com/subhadraskills?tab=repositories](https://github.com/subhadraskills?tab=repositories)
 
