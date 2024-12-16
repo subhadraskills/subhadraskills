@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhadra Kumari</h1>
 <h3 align="center">An enthusiastic software developer from the heart of India.</h3>
-<img src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/42b7cae8-dc7d-498a-85b5-8835dfd79e94/5b86eb25-cb00-4f2b-94d2-7e48ffe1341d.png" alt="">
+<img src="https://www.abmcollege.com/wp-content/uploads/2024/08/6410ebf8e483b53d6186fc53_ABM-College-Web-developer-main.jpg" alt="">
 
 - 👨‍💻 All of my projects are available at [https://github.com/subhadraskills?tab=repositories](https://github.com/subhadraskills?tab=repositories)
 
